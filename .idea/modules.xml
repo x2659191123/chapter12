@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chapter12.iml" filepath="$PROJECT_DIR$/.idea/chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1/springmvc202303281135/springmvc202303281135.iml" filepath="$PROJECT_DIR$/1/springmvc202303281135/springmvc202303281135.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2/springmvc202304010956/springmvc202304010956.iml" filepath="$PROJECT_DIR$/2/springmvc202304010956/springmvc202304010956.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3/springmvc202304021138/springmvc202304021138.iml" filepath="$PROJECT_DIR$/3/springmvc202304021138/springmvc202304021138.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4/springmvc202304021246/springmvc202304021246.iml" filepath="$PROJECT_DIR$/4/springmvc202304021246/springmvc202304021246.iml" />
+    </modules>
+  </component>
+</project>
